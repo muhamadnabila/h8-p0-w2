@@ -1,0 +1,70 @@
+1. Algoritma Newton Secon Law
+
+STORE ΣF = m x a
+
+input m
+input a
+hitung m * a
+print ΣF
+
+
+
+2.a. Algroitma Tahun Kabisat
+
+input tahun
+jika tahun habis di bagi 4 dan tidak habis di bagi 100, dan
+jika tahun habis di bagi 4, habis di bagi 100 dan habis di bagi 400
+maka print "tahun kabisat'
+jika tidak maka print "bukan tahun kabisat"
+
+
+2.b. Pseudocode Tahun Kabisat
+
+Input tahun
+IF "tahun" mod 4 = 0 & "tahun" mod 100 ≠ 0
+IF tahun mod 4 = 0 & "tahun" mod 100 = 0 & "tahun" mod 400 = 0
+ Display "Tahun Kabisat"
+LESE
+ DISPLAY "Bukan Tahun Kabisat"
+
+
+3.a. Algoritma Laundry Day
+
+hitung pakaian satu persatu
+jika sudah 20
+maka masukkin ke mesin cuci
+maka nyalakan mesin cuci
+
+
+3.b. Pseudocode Laundry Day
+
+STORE "pakaian" with 0
+
+WHILE "pakaian" < 21
+ ADD "pakaian" by 1
+DO "masukkan ke mesin cuci"
+WHILE "pakaian" = 20
+ DO "nyalakan mesin cuci"
+
+
+4.a. Algoritma Periksa Kuku
+
+lakukan periksa kuku satu persatu
+lakukan sampai angka 40
+jika kuku panjang
+maka hukum
+jika tidak
+maka puji
+
+4.b. Pseudocode Periksa Kuku
+
+Store "periksa" with 0
+
+WHILE "periksa" < 41
+ WHILE "periksa"
+IF "kuku panjang"
+ DISPLAY "hukum"
+ELSE
+ DISPLAY "puji"
+
+ 
